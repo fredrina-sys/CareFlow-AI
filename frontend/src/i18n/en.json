@@ -1,0 +1,8 @@
+{"app.name":"CareFlow AI","nav.dashboard":"Dashboard","nav.timeline":"Timeline","nav.documents":"Documents","nav.consent":"Sharing & consent","nav.logout":"Log out",
+"login.title":"Sign in","login.email":"Email","login.password":"Password","login.submit":"Sign in","login.register":"Create patient account",
+"patient.allergies":"Allergies","patient.diagnoses":"Diagnoses","patient.prescriptions":"Prescriptions","patient.notes":"Notes from your doctor","patient.book":"Request OPD visit",
+"docs.upload":"Upload medical document","docs.ocrNotice":"OCR-extracted text — not verified clinical information.","docs.ocrUnavailable":"OCR unavailable for this file — manual review needed.",
+"consent.title":"Who can see my records","consent.grant":"Grant access","consent.revoke":"Revoke","consent.hospital":"Hospital","consent.scope":"What to share",
+"ai.notice":"AI-generated clinical summary — requires doctor verification.","alert.notice":"Clinical alert — requires professional assessment.",
+"voice.unsupported":"Voice assistance is not supported in this browser.","voice.listening":"Listening…","voice.idle":"Voice assistant","voice.disclaimer":"Voice assistance helps you navigate. It does not give medical advice.",
+"common.loading":"Loading…","common.empty":"Nothing here yet.","common.save":"Save","common.speak":"Read aloud"}

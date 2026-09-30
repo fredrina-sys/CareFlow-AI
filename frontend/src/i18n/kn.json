@@ -1,0 +1,8 @@
+{"app.name":"ಕೇರ್‌ಫ್ಲೋ AI","nav.dashboard":"ಡ್ಯಾಶ್‌ಬೋರ್ಡ್","nav.timeline":"ಟೈಮ್‌ಲೈನ್","nav.documents":"ದಾಖಲೆಗಳು","nav.consent":"ಹಂಚಿಕೆ ಮತ್ತು ಒಪ್ಪಿಗೆ","nav.logout":"ಲಾಗ್ ಔಟ್",
+"login.title":"ಸೈನ್ ಇನ್","login.email":"ಇಮೇಲ್","login.password":"ಪಾಸ್‌ವರ್ಡ್","login.submit":"ಸೈನ್ ಇನ್","login.register":"ರೋಗಿಯ ಖಾತೆ ರಚಿಸಿ",
+"patient.allergies":"ಅಲರ್ಜಿಗಳು","patient.diagnoses":"ರೋಗನಿರ್ಣಯಗಳು","patient.prescriptions":"ಔಷಧಿ ಚೀಟಿಗಳು","patient.notes":"ನಿಮ್ಮ ವೈದ್ಯರ ಟಿಪ್ಪಣಿಗಳು","patient.book":"OPD ಭೇಟಿ ಕೋರಿ",
+"docs.upload":"ವೈದ್ಯಕೀಯ ದಾಖಲೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ","docs.ocrNotice":"OCR ಮೂಲಕ ಹೊರತೆಗೆದ ಪಠ್ಯ — ಪರಿಶೀಲಿತ ವೈದ್ಯಕೀಯ ಮಾಹಿತಿ ಅಲ್ಲ.","docs.ocrUnavailable":"ಈ ಫೈಲ್‌ಗೆ OCR ಲಭ್ಯವಿಲ್ಲ — ಕೈಯಾರೆ ಪರಿಶೀಲನೆ ಅಗತ್ಯ.",
+"consent.title":"ನನ್ನ ದಾಖಲೆಗಳನ್ನು ಯಾರು ನೋಡಬಹುದು","consent.grant":"ಪ್ರವೇಶ ನೀಡಿ","consent.revoke":"ರದ್ದುಗೊಳಿಸಿ","consent.hospital":"ಆಸ್ಪತ್ರೆ","consent.scope":"ಏನನ್ನು ಹಂಚಬೇಕು",
+"ai.notice":"AI-ರಚಿತ ವೈದ್ಯಕೀಯ ಸಾರಾಂಶ — ವೈದ್ಯರ ಪರಿಶೀಲನೆ ಅಗತ್ಯ.","alert.notice":"ವೈದ್ಯಕೀಯ ಎಚ್ಚರಿಕೆ — ವೃತ್ತಿಪರ ಮೌಲ್ಯಮಾಪನ ಅಗತ್ಯ.",
+"voice.unsupported":"ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಧ್ವನಿ ಸಹಾಯ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.","voice.listening":"ಆಲಿಸುತ್ತಿದೆ…","voice.idle":"ಧ್ವನಿ ಸಹಾಯಕ","voice.disclaimer":"ಧ್ವನಿ ಸಹಾಯವು ನ್ಯಾವಿಗೇಶನ್‌ಗೆ ಮಾತ್ರ. ಇದು ವೈದ್ಯಕೀಯ ಸಲಹೆ ನೀಡುವುದಿಲ್ಲ.",
+"common.loading":"ಲೋಡ್ ಆಗುತ್ತಿದೆ…","common.empty":"ಇನ್ನೂ ಏನೂ ಇಲ್ಲ.","common.save":"ಉಳಿಸಿ","common.speak":"ಗಟ್ಟಿಯಾಗಿ ಓದಿ"}
